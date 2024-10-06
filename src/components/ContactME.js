@@ -159,7 +159,7 @@ const ContactMe = () => {
                                 aria-live="polite"
                             >
                                 {submitStatus === 'success'
-                                    ? 'Your message has been sent successfully!'
+                                    ? 'Your message has been sent successfully! Check your mail for confirmation :)'
                                     : 'There was an error sending your message. Please try again.'}
                             </motion.p>
                         )}
