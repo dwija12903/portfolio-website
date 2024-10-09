@@ -94,6 +94,7 @@ const Projects = () => {
             title: "Contact Manager App",
             description: "The Contact Manager App allows users to manage their contacts by providing functionalities to create, read, update, and delete (CRUD) contact information. ",
             technologies: ["React", "Flask", "SQLAlchemy", "CORS"],
+            projectUrl: 'https://contact-manager-dwija12.vercel.app/',
             githubUrl: "https://github.com/dwija12903/Contact-Manager-Web-App"
         },
     ];
