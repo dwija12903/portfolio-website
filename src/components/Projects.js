@@ -80,6 +80,7 @@ const Projects = () => {
             title: "LinkUp: A Real-Time Chat Hub",
             description: "A real-time chat application allowing users to log in, join chats, and communicate with other users in real-time.",
             technologies: ["Vue.js", "Express", "Socket.Io", "React", "cors"],
+            projectUrl: "https://chathub-qz20.onrender.com/",
             githubUrl: "https://github.com/dwija12903/chat-hub"
         },
         {
