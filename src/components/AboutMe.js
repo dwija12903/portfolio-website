@@ -84,7 +84,7 @@ const AboutMe = () => {
 
                 <motion.div variants={itemVariants} className="text-center">
                     <a
-                        href="https://drive.google.com/file/d/1mfxc2W5WLL9PVB-pRHGPe6xnlqy_p4r9/view?usp=sharing"
+                        href="https://drive.google.com/file/d/1lhbSUxDs5pjnTFS1fm6Q86aYv0NqwXFf/view?usp=sharing"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-block px-8 py-3 bg-gradient-to-r from-purple-600 to-pink-600 text-white font-semibold rounded-full hover:shadow-lg transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-105"
