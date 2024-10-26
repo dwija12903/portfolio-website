@@ -97,6 +97,20 @@ const Projects = () => {
             projectUrl: 'https://contact-manager-dwija12.vercel.app/',
             githubUrl: "https://github.com/dwija12903/Contact-Manager-Web-App"
         },
+        {
+            title: "Quiz App",
+            description: "An interactive JavaScript quiz to test your knowledge with real-time feedback. ",
+            technologies: ["Javascript", "jQuery", "Bootstrap", "HTML", "CSS"],
+            projectUrl: 'https://dwija12903.github.io/quiz-app/',
+            githubUrl: "https://github.com/dwija12903/quiz-app"
+        },
+        {
+            title: "To-Do List App",
+            description: "A To-Do List App to help users manage their tasks effectively.With a user-friendly interface, users can create, update, delete, and filter tasks while keeping track of their priorities. ",
+            technologies: ["Javascript", "jQuery", "Bootstrap", "HTML", "CSS"],
+            projectUrl: 'https://github.com/dwija12903/to-do-list-app',
+            githubUrl: "https://to-do-app-dwija12.vercel.app/"
+        },
     ];
 
     return (
