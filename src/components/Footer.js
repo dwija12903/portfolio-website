@@ -29,7 +29,7 @@ const Footer = () => {
                         <motion.div className="flex space-x-4" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5, delay: 0.2 }}>
                             <SocialLink href="https://github.com/dwija12903" icon={FaGithub} label="GitHub" />
                             <SocialLink href="https://linkedin.com/in/dwijapanchal" icon={FaLinkedin} label="LinkedIn" />
-                            // <SocialLink href="https://leetcode.com/dwijapanchal" icon={FaCode} label="Leetcode" />
+                            {/*<SocialLink href="https://leetcode.com/dwijapanchal" icon={FaCode} label="Leetcode" />*/}
                             <SocialLink href="mailto:dwija1209@gmail.com" icon={FaEnvelope} label="Email" />
                             <SocialLink href="https://instagram.com/dwijapanchal" icon={FaInstagram} label="Instagram" />
                         </motion.div>
