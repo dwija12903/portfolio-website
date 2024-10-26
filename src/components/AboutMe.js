@@ -66,9 +66,9 @@ const AboutMe = () => {
                     variants={itemVariants}
                 >
                     <p className="text-xl text-gray-700 mb-6 leading-relaxed">
-                        Hello! I'm <span className="font-semibold text-purple-600"><a href="https://www.linkedin.com/in/dwijapanchal">Dwija Panchal</a></span>, a passionate full-stack developer with a strong interest in both web development and data-driven technologies. My skill set covers front-end and back-end development, allowing me to create dynamic and user-centric applications. I also have experience with Python and machine learning, which I'm eager to integrate into innovative solutions. As a quick learner, I enjoy exploring new tech trends, contributing to open-source projects, and continuously enhancing my skills to stay ahead in the tech world.
+                        Hello! I'm <span className="font-semibold text-purple-600"><a href="https://www.linkedin.com/in/dwijapanchal">Dwija Panchal</a></span>,  a final-year Computer Science and Engineering student at PDEU with a passion for building impactful solutions. I have developed a strong foundation in full-stack development and machine learning. My project portfolio ranges from Women'sEndoInsight, a PCOS prediction platform to real-time chat applications and automated invoice systems, showcasing my expertise in React.js, Node.js, Python, and various machine learning technologies. Beyond coding, I served as the Public Relations Head for my university's Sports Committee, where I honed my leadership and communication skills while managing events. I thrive on challenges that combine technical innovation with real-world impact, and I'm always excited to learn new technologies and contribute to meaningful projects that make a difference in people's lives.
                     </p>
-                </motion.div>
+                        </motion.div>
 
                 <motion.div variants={itemVariants} className="mb-12">
                     <h3 className="text-2xl font-semibold mb-4 text-gray-800">Tech Stack</h3>
