@@ -33,7 +33,7 @@ const Experience = () => {
             title: "Summer Intern",
             company: "Indian Space Research Organisation (ISRO)",
             period: "May 2024 - Aug 2024",
-            description: "I optimized Python scripts for drone communication, reducing transmission errors by 15%, and created a Tkinter-based real-time monitoring GUI to enhance data analysis.",
+            description: "Contributed to ISRO's drone communication systems by customizing Mavlink protocol and developing a real-time monitoring GUI, enhancing drone-to-ground station communication over Satcom channels.",
             techStack: ["Python", "Tkinter", "Mavlink Protocol", "Pymavlink","Software Development","Manual Testing"],
         },
     ];
